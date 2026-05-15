@@ -16,7 +16,7 @@
                 url="https://github.com/aaditaggarwal26/notchub-releases/releases/download/v1.2.2/notchub-1.2.2.zip"
                 length="12262510"
                 type="application/octet-stream"
-                sparkle:edSignature=SRLQh+iCcW0dt05e/iXq3zKRQXnMwsvAGqWN2iaoMiGTRrRPeYxZx+cE8DD+PN2rZ0ohSLpM67mjxBbpfyb9DQ==/>
+                sparkle:edSignature="SRLQh+iCcW0dt05e/iXq3zKRQXnMwsvAGqWN2iaoMiGTRrRPeYxZx+cE8DD+PN2rZ0ohSLpM67mjxBbpfyb9DQ=="/>
         </item>
         <item>
             <title>1.2.1</title>
@@ -29,7 +29,7 @@
                 url="https://github.com/aaditaggarwal26/notchub-releases/releases/download/v1.2.1/notchub-1.2.1.zip"
                 length="12264681"
                 type="application/octet-stream"
-                sparkle:edSignature=sea8JKce8Igk/UEtUpGCjTNrY4QX3TIMNdXWaTVEjw8Wr9Vs4rGp5wb4zfInE7mjpAmd7pkBOB48sx4/OltFAg==/>
+                sparkle:edSignature="sea8JKce8Igk/UEtUpGCjTNrY4QX3TIMNdXWaTVEjw8Wr9Vs4rGp5wb4zfInE7mjpAmd7pkBOB48sx4/OltFAg=="/>
         </item>
         <item>
             <title>1.2.0</title>
@@ -42,7 +42,7 @@
                 url="https://github.com/aaditaggarwal26/notchub-releases/releases/download/v1.2.0/notchub-1.2.0.zip"
                 length="12240046"
                 type="application/octet-stream"
-                sparkle:edSignature=1czTEVxQ7/6+ZpR7lGgmKDd4uJ3oy7zwaIlvOWJi9KZ+5sviXRWpAT3yqKG9Tu03+h987G6/QHnypcxwIMphAA==/>
+                sparkle:edSignature="1czTEVxQ7/6+ZpR7lGgmKDd4uJ3oy7zwaIlvOWJi9KZ+5sviXRWpAT3yqKG9Tu03+h987G6/QHnypcxwIMphAA=="/>
         </item>
         <item>
             <title>1.0</title>
@@ -50,7 +50,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>notchub 1.0</h2><p>Initial release. See release notes on GitHub.</p>]]></description>
+            <description><![CDATA[<h2>notchub 1.0</h2><p>See release notes on GitHub.</p>]]></description>
             <enclosure
                 url="https://github.com/aaditaggarwal26/notchub-releases/releases/download/v1.0/notchub-1.0.zip"
                 length="12036580"
