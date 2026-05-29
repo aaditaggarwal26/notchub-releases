@@ -6,6 +6,19 @@
         <description>notchub app updates</description>
         <language>en</language>
         <item>
+            <title>1.4.11</title>
+            <pubDate>Fri, 29 May 2026 21:50:08 +0000</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.4.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>notchub 1.4.11</h2><p>See release notes on GitHub.</p>]]></description>
+            <enclosure
+                url="https://github.com/aaditaggarwal26/notchub-releases/releases/download/v1.4.11/notchub-1.4.11.zip"
+                length="83847388"
+                type="application/octet-stream"
+                sparkle:edSignature="vfeXYOfTz4DDnQIgOX96XfN1kbxPfeQg4LGPThQS/qR8g6WKXp7NNKjQFShStQNu2/zxrP9+wakCdnD6c4tVAw=="/>
+        </item>
+        <item>
             <title>1.4.10</title>
             <pubDate>Fri, 29 May 2026 18:04:32 +0000</pubDate>
             <sparkle:version>39</sparkle:version>
